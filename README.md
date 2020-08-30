@@ -31,5 +31,5 @@ history -c
 ...
 ```
 Далее с помощью packer подготовлен образ VM с новым ядром по методичке.
-Ссылка на vagrantbox: _https://app.vagrantup.com/ribentrop/boxes/centos-7.7_
+3. Ссылка на vagrantbox: _https://app.vagrantup.com/ribentrop/boxes/centos-7.7_
 
